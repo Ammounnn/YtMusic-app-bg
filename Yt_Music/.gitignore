@@ -1,0 +1,11 @@
+# Flutter/Dart specific
+.dart_tool/
+.packages
+build/
+android/.gradle/
+android/app/build/
+ios/Pods/
+web/.dart_tool/
+linux/.dart_tool/
+windows/.dart_tool/
+macos/.dart_tool/
